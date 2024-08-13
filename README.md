@@ -1,7 +1,7 @@
 👋 Hi, I’m @ErikRSN
 
-- 👀 I’m interested in Software Development, IT Networking as well as Data and AI.
-- 🌱 I’m currently learning Front End Development to bring Machine Learning and AI closer to the end user.
+- 👀 I’m interested in software development, IT networking as well as data and AI.
+- 🌱 I’m currently learning front end development to bring data and AI closer to the end user.
 - 💞️ I’m looking to collaborate on innovative AI-driven projects and IT consulting initiatives that require translating complex business requirements into technical solutions.
 - 📫 How to reach me: [Homepage](https://www.erikrasin.io/) | [erik.rasin@gmail.com](mailto:erik.rasin@gmail.com) | [LinkedIn](https://www.linkedin.com/in/erik-rasin/)
 - 😄 Pronouns: He/Him
